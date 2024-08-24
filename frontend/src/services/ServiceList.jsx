@@ -9,17 +9,17 @@ const servicesData = [
    {
       imgUrl: weatherImg,
       title: `Calculate Weather`,
-      desc: `Lorem ipsum dolor sit amet, consectetur adipisicing elit.`,
+      desc: `Get real-time weather data and forecasts to plan your day, week, or travels with confidence.`,
    },
    {
       imgUrl: guideImg,
       title: `Best Tour Guide`,
-      desc: `Lorem ipsum dolor sit amet, consectetur adipisicing elit.`,
+      desc: `Your Adventure Awaits with the Best Tour Guides Unlock unforgettable experiences with our expert guides.`,
    },
    {
       imgUrl: customizationImg,
       title: 'Customization',
-      desc: `Lorem ipsum dolor sit amet, consectetur adipisicing elit.`,
+      desc: `Tailor Your Journey Your Way Customize your adventure to match your preferences and interests.`,
    },
 ]
 

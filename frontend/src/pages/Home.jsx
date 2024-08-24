@@ -27,12 +27,11 @@ const Home = () => {
                         <Subtitle subtitle={'Know Before You Go'} />
                         <img src={worldImg} alt="" />
                      </div>
-                     <h1>Traveling opens the door to creating <span className='hightlight'> memories</span></h1>
+                     <h1>Unforgettable Memories Await </h1>
                      <p>
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                        Ullam ipsum nobis asperiores soluta voluptas quas voluptates.
-                        Molestiae tempora dignissimos, animi praesentium molestias perferendis
-                        porro expedita delectus. Soluta natus porro.
+                     Seamlessly book extraordinary adventures with passionate guides.
+                      Our innovative itineraries blend iconic landmarks with cutting-edge experiences. 
+                      Comfortable accommodations immerse you in local culture. Redefine your journey with us.
                      </p>
                   </div>
                </Col>
@@ -94,8 +93,7 @@ const Home = () => {
                   <div className="experience__content">
                      <Subtitle subtitle={'Experience'} />
                      <h2>With our all experience <br /> we will serve you</h2>
-                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                        <br /> Quas aliquam, hic tempora inventore suscipit unde. </p>
+                     <p> innovation is our tradition. We've crafted unforgettable journeys led by experienced guides. Our pioneering itineraries seamlessly blend iconic destinations with cutting-edge experiences. Immerse yourself in local culture with our comfortable accommodations. Let us redefine your travel experience. </p>
                   </div>
 
                   <div className="counter__wrapper d-flex align-items-center gap-5">

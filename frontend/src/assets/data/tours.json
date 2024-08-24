@@ -2,7 +2,7 @@
   {
     "title": "Westminister Bridge",
     "city": "London",
-    "address": "Somewhere in London",
+    "address": "Westminster Bridge Road Post Office,Greater London.",
     "distance": 300,
     "price": 99,
     "maxGroupSize": 10,
@@ -15,7 +15,7 @@
   {
     "title": "Bali, Indonesia",
     "city": "Bali",
-    "address": "Somewhere in Indonesia",
+    "address": "Bali,Indonesia",
     "distance": 400,
     "price": 99,
     "maxGroupSize": 8,
@@ -28,7 +28,7 @@
   {
     "title": "Snowy Mountains, Thailand",
     "city": "Bangkok",
-    "address": "Somewhere in Thailand",
+    "address": "Pong Nam Ron, Fang District, Chiang Mai, Thailand",
     "distance": 500,
     "price": 99,
     "maxGroupSize": 8,
@@ -41,7 +41,7 @@
   {
     "title": "Beautiful Sunrise, Thailand",
     "city": "Phuket",
-    "address": "Somewhere in Thailand",
+    "address": "Wiang Tai, Pai District, Mae Hong Son, Thailand",
     "distance": 500,
     "price": 99,
     "maxGroupSize": 8,
@@ -54,7 +54,7 @@
   {
     "title": "Nusa Pendia Bali, Indonesia",
     "city": "Bali",
-    "address": "Somewhere in Indonesia",
+    "address": "Nusa Penida, Klungkung Regency, Bali, Indonesia",
     "distance": 500,
     "price": 99,
     "maxGroupSize": 8,
@@ -66,8 +66,8 @@
   },
   {
     "title": "Cherry Blossoms Spring",
-    "city": "Tokyo",
-    "address": "Somewhere in Japan",
+    "city": "Japan",
+    "address": "Shizunaitahara, Shinhidaka, Hidaka District, Japan",
     "distance": 500,
     "price": 99,
     "maxGroupSize": 8,
@@ -80,7 +80,7 @@
   {
     "title": "Holmen Lofoten, France",
     "city": "Paris",
-    "address": "Somewhere in France",
+    "address": "Flathaugen,Sorvagen, Norway",
     "distance": 500,
     "price": 99,
     "maxGroupSize": 8,
@@ -91,22 +91,9 @@
     "featured": true
   },
   {
-    "title": "Snowy Mountains, Thailand-2",
-    "city": "Bangkok",
-    "address": "Somewhere in Thailand",
-    "distance": 500,
-    "price": 99,
-    "maxGroupSize": 8,
-    "desc": "this is the description",
-    "reviews": [],
-
-    "photo": "/tour-images/tour-img03.jpg",
-    "featured": true
-  },
-  {
-    "title": "Jaflong, Sylhet-2",
+    "title": "Jaflong, Sylhet",
     "city": "Sylhet",
-    "address": "Somewhere in Sylhet",
+    "address": "Sylhet",
     "distance": 100,
     "price": 99,
     "maxGroupSize": 5,
@@ -117,9 +104,9 @@
     "featured": false
   },
   {
-    "title": "Cox's Bazar Sea Beach-2",
+    "title": "Cox's Bazar Sea Beach",
     "city": "Chittagong",
-    "address": "Somewhere in Chittagong",
+    "address": "Chittagong",
     "distance": 500,
     "price": 99,
     "maxGroupSize": 8,
@@ -128,5 +115,201 @@
 
     "photo": "/tour-images/tour-img09.jpg",
     "featured": false
+  },
+  {
+    "title": "Eiffle Tower",
+    "city": "Paris",
+    "address": "Champ de Mars,Av. Anatole France,Paris, France",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img10.jpg",
+    "featured": false
+  },
+  {
+    "title": "Taj Mahal",
+    "city": "India",
+    "address": "Agra, Uttar Pradesh, India",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img11.jpg",
+    "featured": true
+  },
+  {
+    "title": "Colosseum",
+    "city": "Rome",
+    "address": "Rome,Italy",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img12.jpg",
+    "featured": true
+  },
+  {
+    "title": "DisneyLand",
+    "city": "Hong Kong",
+    "address": "Lantau Island,Hong Kong",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img13.jpg",
+    "featured": true
+  },
+  {
+    "title": "Grand Canyon",
+    "city": "United State",
+    "address": "Tusayan, Arizona,United State",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img14.jpg",
+    "featured": true
+  },
+  {
+    "title": "Golden Gate Bridge",
+    "city": "United State",
+    "address": "san Froncisco,California,USA",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img15.jpg",
+    "featured": true
+  },
+  {
+    "title": "Leaning Tower of Pisa",
+    "city": "Italy",
+    "address": "Pisa,Italy",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img16.jpg",
+    "featured": true
+  },
+  {
+    "title": "Great Wall Of China",
+    "city": "China",
+    "address": "Huairou, Beijing ,China",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img18.jpg",
+    "featured": true
+  },
+  {
+    "title": "Abbey Falls",
+    "city": "India",
+    "address": "Hebbettageri, Madikeri, Karnataka ,India",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img17.jpg",
+    "featured": true
+  },
+  {
+    "title": "Mysore Palace",
+    "city": "India",
+    "address": "Mysore , Karnataka , India",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img19.jpg",
+    "featured": true
+  },
+  {
+    "title": "Machu Picchu",
+    "city": "South America",
+    "address": "Peru,South America",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img20.jpg",
+    "featured": true
+  },
+  {
+    "title": "Srinagar",
+    "city": "India",
+    "address": "Srinagar, Jammu And Kashmir, India",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img21.jpg",
+    "featured": true
+  },
+  {
+    "title": "Munnar",
+    "city": "India",
+    "address": "Munnar,Kerala,India",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img22.jpg",
+    "featured": true
+  },
+  {
+    "title": "Mehrangarh Fort",
+    "city": "India",
+    "address": "Sodagaran Mohalla, Jodhpur, Rajasthan,India",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img23.jpg",
+    "featured": true
+  },
+  {
+    "title": "Darjeeling",
+    "city": "India",
+    "address": "West Bengal,India",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img24.jpg",
+    "featured": true
   }
+  
 ]

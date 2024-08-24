@@ -5,6 +5,7 @@ import tourImg04 from "../images/tour-img04.jpg";
 import tourImg05 from "../images/tour-img05.jpg";
 import tourImg06 from "../images/tour-img06.jpg";
 import tourImg07 from "../images/tour-img07.jpg";
+import tourImg08 from  "../images/tour-img08.jpg";
 
 const tours = [
   {
@@ -146,19 +147,23 @@ const tours = [
   },
   {
     id: "08",
-    title: "Snowy Mountains, Thailand",
-    city: "Thailand",
+    title: "Eiffle Tower",
+    city: "Paris",
     distance: 500,
-    address: 'SomeWhere',
+    address:"Champ de Mars, 5 Av. Anatole France, 75007 Paris, France",
     price: 99,
     maxGroupSize: 8,
     desc: "this is the description",
     reviews: [
+      {
+        name: "jhon doe",
+        rating: 4.6,
+      },
     ],
     avgRating: 4.5,
-    photo: tourImg03,
-    featured: false,
-  },
+    photo: tourImg08,
+    featured: true,
+  }
 ];
 
 export default tours;

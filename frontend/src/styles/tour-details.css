@@ -34,6 +34,7 @@
    column-gap   : 2.5rem;
    margin-top   : 1rem;
    margin-bottom: 2.5rem;
+   
 }
 
 .tour__info h5 {
@@ -51,12 +52,17 @@
    margin-bottom: 1.5rem;
 }
 
-.rating__group span {
-   font-size: 1rem;
-   display: flex;
-   align-items: center;
-   color: var(--secondary-color);
-   cursor: pointer;
+.rating__group span{
+   font-size:1.1rem;
+   display:flex;
+   align-items:center;
+   color:orange;
+   cursor:pointer;
+   transition: transform .2s;
+}
+
+.rating__group span:active{
+   transform:scale(1.5);
 }
 
 .review__input {

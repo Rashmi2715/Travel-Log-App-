@@ -15,7 +15,7 @@
 
 .social__link span a {
    text-decoration: none;
-   color          : var(--heading-color);
+   color          : orange;
    font-size      : 1.5rem;
 }
 
